@@ -10,7 +10,7 @@
 
 ## Where can I access it? 
 
-The page is deployed to Netlify on [font.erichier.tech](https://font.erichier.tech). 
+The page is deployed to Netlify on [font.sefdigital.de](https://font.sefdigital.de). 
 
 ## Any plans for the future? 
 
